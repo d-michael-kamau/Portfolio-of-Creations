@@ -1,21 +1,20 @@
-**Welcome Welcome!
-**
-**Heres a run-down of what is contained in my Portfolio!
-**
-**School Projects:
-**
+Howdy!
+Heres a run-down of what is contained in my Programming Portfolio!
+
+School Projects:
+
 AstralCentipede.java - A partner school project where the assignment was to make a simple game that in some way uses 2d arrays with data stored in each of them
 
-**Passion Projects (Correlate with related content in my full portfolio):
-**
+Passion Projects (Correlate with related content in my full portfolio):
+
 Labyrinth.lua - This is code of a project I did to explore using procedural generation to create a labyrinth path over a 2d grid
 
 RootMotion.lua - This is my module script for root motion, a concept that allows animation in Roblox to effect the player's movement, rather than keeping them in one place
 
-PolarMountainsProcedural/PolarMountainsSimple - A project where I explored using polar equations to make spiral-like mountains. This is an off-shoot of a larger 'Project: Wild Zone' where I explore procedural generation of biomes. The simple makees a simple tower-like spiral with Archemedean Spirals, while Procedural uses Logarithmic spiral segments to create a more interested and detailed mountain.
+PolarMountainsProcedural/PolarMountainsSimple.lua - A project where I explored using polar equations to make spiral-like mountains. This is an off-shoot of a larger 'Project: Wild Zone' where I explore procedural generation of biomes. The simple makees a simple tower-like spiral with Archemedean Spirals, while Procedural uses Logarithmic spiral segments to create a more interested and detailed mountain.
 
-**Notable UIL Competition Practice solutions I've made (Each of these contain context inside of them + input/output examples):
-**
+Notable UIL Competition Practice solutions I've made (Each of these contain context inside of them + input/output examples):
+
 Dante.java - Involves finding all prime numbers between A and B. I used a method of excluding all non-primes then counting the primes left
 
 Melinas.java - Given amounts of change, find how many combinations of currency can represent that amount. This one was hard! My solution uses some tabulation I had to draw through
